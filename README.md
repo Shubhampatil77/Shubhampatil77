@@ -13,7 +13,7 @@ Enthusiastic and detail-oriented IT professional with hands-on experience in Ang
 ## 🛠️ Skills
 
 - **Languages:** Java, HTML5, CSS3, JavaScript, SQL
-- **Frameworks & Libraries:** Angular, Angular Material, Bootstrap, Swing, AWT
+- **Frameworks & Libraries:** Angular, Angular Material, Bootstrap
 - **Databases:** MySQL, MS SQL Server
 - **Technologies:** RESTful APIs, Git, GitHub
 
@@ -39,7 +39,6 @@ Enthusiastic and detail-oriented IT professional with hands-on experience in Ang
   K.K Wagh ACS And CS College, Nashik (2019–2022) | CGPA: 8.09
 - **12th (Science)**  
   B K K Junior College, Nashik (2018–2019)
-
 ---
 
 ## 🏅 Certifications
