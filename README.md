@@ -44,8 +44,6 @@ Enthusiastic and detail-oriented IT professional with hands-on experience in Ang
 ## 🏅 Certifications
 
 - Java Full Stack Developer (TCS_ION)
-- Google IT Support
-
 ---
 
 ## 👨‍💻 Internships
